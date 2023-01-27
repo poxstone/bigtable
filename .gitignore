@@ -1,0 +1,4 @@
+*.pyc
+*.sw[mnop]
+venv/
+table_federation.sql
